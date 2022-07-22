@@ -142,7 +142,7 @@ var Script;
     async function start(_event) {
         await FudgeCore.Project.loadResourcesFromHTML();
         await getJsonData();
-        graph = ƒ.Project.resources["Graph|2022-07-20T05:46:49.943Z|14997"];
+        graph = ƒ.Project.resources["Graph|2022-07-20T05:46:42:54.174Z|53991"];
         plattform = graph.getChildrenByName("Plattform")[0];
         generateCG(plattform, ƒ.COLLISION_GROUP.GROUP_2);
         parentMain = graph;
