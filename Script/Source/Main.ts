@@ -31,7 +31,7 @@ namespace Script {
     
     await FudgeCore.Project.loadResourcesFromHTML();
     await getJsonData();
-    graph = <ƒ.Graph>ƒ.Project.resources["Graph|2022-07-20T05:46:42:54.174Z|53991"];
+    graph = <ƒ.Graph>ƒ.Project.resources["Graph|2022-07-20T05:46:49.943Z|14997"];
 
     plattform = graph.getChildrenByName("Plattform")[0];
     generateCG(plattform, ƒ.COLLISION_GROUP.GROUP_2);
