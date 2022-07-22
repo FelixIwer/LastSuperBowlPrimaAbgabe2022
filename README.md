@@ -1,3 +1,5 @@
+### !!! FudgeCore got some Problems, please the Files and Test it on a local Server !!!
+
 # LastSuperBowl
 
 # Information:
@@ -10,7 +12,7 @@
 - Link to Source:   [LastSuperBowl Code ](https://github.com/FelixIwer/LastSuperBowlPrimaAbgabe2022/tree/main/Script/Source)
 - Link to Conceptpaper:   [LastSuperBowl Concept ](https://github.com/FelixIwer/LastSuperBowlPrimaAbgabe2022/blob/main/Documents/The%20Last%20Super%20BowlSS22.pdf)
 
-### Install: Either with Pages or Download the Files and run it on a local Server.
+### Install: Download the Files and run it on a local Server.
 
 ### Checklist for the final assignment
 
