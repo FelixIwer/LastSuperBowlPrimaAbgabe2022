@@ -254,7 +254,7 @@ var Script;
     }
     function gameOver() {
         Script.GameState.get().gameRunning = false;
-        document.getElementById("StartGame").innerHTML = "Your Score: " + Script.GameState.get().ingameScore + "<br> You Lose! <br> Press R to restart. ";
+        document.getElementById("StartGame").innerHTML = "You Lose! <br>" + "Your Score: " + Script.GameState.get().ingameScore + "<br>Press R to restart. ";
         if (ƒ.Keyboard.isPressedOne([ƒ.KEYBOARD_CODE.R])) {
             location.reload();
         }
