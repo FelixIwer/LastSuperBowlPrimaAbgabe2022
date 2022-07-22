@@ -1,4 +1,4 @@
-### !!! FudgeCore got some Problems, please the Files and Test it on a local Server !!!
+### !!! FudgeCore got some Problems, please download the Files and play it on your local Server  !!!
 
 # LastSuperBowl
 
