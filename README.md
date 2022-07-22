@@ -6,9 +6,8 @@
 - Semester:         7th
 - Course:           Prima
 - Docent:           [Prof. Jirka Dell´Oro-Friedl](https://github.com/JirkaDellOro)
-- Link to Pages:     [LastSuperBowl](https://felixiwer.github.io/PrimaAbgabeWS2122/PrimaAbgabeWS2122New/index.html)
+- Link to Pages:     [LastSuperBowl](https://felixiwer.github.io//LastSuperBowlPrimaAbgabe2022/index.html)
 - Link to Source:   [LastSuperBowl Code ](https://github.com/FelixIwer/LastSuperBowlPrimaAbgabe2022/tree/main/Script/Source)
-LastSuperBowlPrimaAbgabe2022 
 - Link to Conceptpaper:   [LastSuperBowl Concept ](https://github.com/FelixIwer/LastSuperBowlPrimaAbgabe2022/blob/main/Documents/The%20Last%20Super%20BowlSS22.pdf)
 
 ### Install: Either with Pages or Download the Files and run it on a local Server.
