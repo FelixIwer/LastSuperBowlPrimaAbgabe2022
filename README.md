@@ -1,5 +1,3 @@
-### !!! FudgeCore got some Problems, please download the Files and play it on your local Server  !!!
-
 # LastSuperBowl
 
 # Information:
